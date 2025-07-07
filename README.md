@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Harsh181007
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning C.
 - 💞️ I’m looking to collaborate on .Linkedi ..
 - 📫 How to reach me harshdhimmar111@gmail.com.
 
